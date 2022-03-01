@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 I am Gowri, an Engineer skilled in Digital Signal Processing, Machine Learning, Computer Vision. Hands on experience with Python, MATLAB, C and Java. Pursuing Master of Science focused in Computer Engineering from Purdue University to strengthen and build new skills.
 
-Here is a brief summary of my github profile. Feel free to explore any of my repositories. 
+Here is a brief summary of my github profile. Feel free to explore any of my repositories.
+
 E-mail - gowriks12@gmail.com
+
 LinkedIn - https://www.linkedin.com/in/gowri-kurthkoti-sridhara-rao-0591a8178/
 
 ## Digital Signal Processing related projects and contributions
