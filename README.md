@@ -26,22 +26,35 @@ DSP - Projects : https://github.com/gowriks12/DSP-projects
 
 ## Machine Learning Projects and contributions
 Undergraduate Senior Design project - Interactive health Bot - A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot
+
 Amazon stock price prediction - https://github.com/gowriks12/Amazon-Stock-Prediction
+
 Data analysis using Machine learning - https://github.com/gowriks12/Voting_data_analysis , https://github.com/gowriks12/auto_data_analysis
+
 Text classification using KNN - https://github.com/gowriks12/text_classification-KNN
+
 Neural Networks implementation - https://github.com/gowriks12/Implementing-backpropogation-algorithm 
+
 Digit Classification using CNN - https://github.com/gowriks12/digit-classification-CNN
+
 Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
+
 Car logo classification - https://github.com/gowriks12/logo-recognition
 
 ## Computer Vision Projects and contributions
 Edge detection - https://github.com/gowriks12/Edge-Detection
+
 Template Matching - https://github.com/gowriks12/Template-Matching
+
 Region based segmentation - https://github.com/gowriks12/Region-based-segmentation
+
 Disparity Map (Stereo Vision) - https://github.com/gowriks12/Disparity-Map 
+
 Hand tracking and gesture detection - https://github.com/gowriks12/Hand-Tracking-Gesture-Detection
+
 Other Image processing projects included in - https://github.com/gowriks12/CV-Projects
 
 ## Other projects
 Software Defined Network for IoT - https://github.com/gowriks12/SDNinIoT
+
 Web application Project - https://github.com/gowriks12/Software-Engineering-Project
