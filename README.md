@@ -44,6 +44,12 @@ Birdcall Identification - https://github.com/gowriks12/birdcall-identification
 Car logo classification - https://github.com/gowriks12/logo-recognition
 
 ## Computer Vision Projects and contributions
+Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
+
+Road Lane Detection - https://github.com/gowriks12/lane-detection
+
+Hand tracking and gesture detection - https://github.com/gowriks12/Hand-Tracking-Gesture-Detection
+
 Edge detection - https://github.com/gowriks12/Edge-Detection
 
 Template Matching - https://github.com/gowriks12/Template-Matching
@@ -51,8 +57,6 @@ Template Matching - https://github.com/gowriks12/Template-Matching
 Region based segmentation - https://github.com/gowriks12/Region-based-segmentation
 
 Disparity Map (Stereo Vision) - https://github.com/gowriks12/Disparity-Map 
-
-Hand tracking and gesture detection - https://github.com/gowriks12/Hand-Tracking-Gesture-Detection
 
 Other Image processing projects included in - https://github.com/gowriks12/CV-Projects
 
