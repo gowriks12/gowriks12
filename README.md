@@ -31,6 +31,10 @@ Undergraduate Senior Design project - Interactive health Bot - A voice controlle
 
 Amazon stock price prediction - https://github.com/gowriks12/Amazon-Stock-Prediction
 
+Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
+
+Car logo classification - https://github.com/gowriks12/logo-recognition
+
 Data analysis using Machine learning - https://github.com/gowriks12/Voting_data_analysis , https://github.com/gowriks12/auto_data_analysis
 
 Text classification using KNN - https://github.com/gowriks12/text_classification-KNN
@@ -38,10 +42,6 @@ Text classification using KNN - https://github.com/gowriks12/text_classification
 Neural Networks implementation - https://github.com/gowriks12/Implementing-backpropogation-algorithm 
 
 Digit Classification using CNN - https://github.com/gowriks12/digit-classification-CNN
-
-Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
-
-Car logo classification - https://github.com/gowriks12/logo-recognition
 
 ## Computer Vision Projects and contributions
 Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
