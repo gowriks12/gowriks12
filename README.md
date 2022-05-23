@@ -23,6 +23,10 @@ E-mail - gowriks12@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/gowri-kurthkoti-sridhara-rao-0591a8178/
 
+- 🔭 I’m currently working on ...
+- Advanced Computer Vision Using TensorFlow (Coursera Course)
+- Student Attention classification using Computer Vision (MS Thesis)
+
 ## Digital Signal Processing related projects and contributions
 DSP - Projects : https://github.com/gowriks12/DSP-projects
 
@@ -45,6 +49,8 @@ Digit Classification using CNN - https://github.com/gowriks12/digit-classificati
 
 ## Computer Vision Projects and contributions
 Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
+
+Advanced Computer Vision using TensorFlow - https://github.com/gowriks12/Advanced-Computer-Vision-TF
 
 Road Lane Detection - https://github.com/gowriks12/lane-detection
 
