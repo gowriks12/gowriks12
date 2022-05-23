@@ -27,26 +27,6 @@ LinkedIn - https://www.linkedin.com/in/gowri-kurthkoti-sridhara-rao-0591a8178/
 - Advanced Computer Vision Using TensorFlow (Coursera Course)
 - Student Attention classification using Computer Vision (MS Thesis)
 
-## Digital Signal Processing related projects and contributions
-DSP - Projects : https://github.com/gowriks12/DSP-projects
-
-## Machine Learning Projects and contributions
-Undergraduate Senior Design project - Interactive health Bot - A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot
-
-Amazon stock price prediction - https://github.com/gowriks12/Amazon-Stock-Prediction
-
-Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
-
-Car logo classification - https://github.com/gowriks12/logo-recognition
-
-Data analysis using Machine learning - https://github.com/gowriks12/Voting_data_analysis , https://github.com/gowriks12/auto_data_analysis
-
-Text classification using KNN - https://github.com/gowriks12/text_classification-KNN
-
-Neural Networks implementation - https://github.com/gowriks12/Implementing-backpropogation-algorithm 
-
-Digit Classification using CNN - https://github.com/gowriks12/digit-classification-CNN
-
 ## Computer Vision Projects and contributions
 Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
 
@@ -65,6 +45,27 @@ Region based segmentation - https://github.com/gowriks12/Region-based-segmentati
 Disparity Map (Stereo Vision) - https://github.com/gowriks12/Disparity-Map 
 
 Other Image processing projects included in - https://github.com/gowriks12/CV-Projects
+
+
+## Machine Learning Projects and contributions
+Undergraduate Senior Design project - Interactive health Bot - A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot
+
+Amazon stock price prediction - https://github.com/gowriks12/Amazon-Stock-Prediction
+
+Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
+
+Car logo classification - https://github.com/gowriks12/logo-recognition
+
+Data analysis using Machine learning - https://github.com/gowriks12/Voting_data_analysis , https://github.com/gowriks12/auto_data_analysis
+
+Text classification using KNN - https://github.com/gowriks12/text_classification-KNN
+
+Neural Networks implementation - https://github.com/gowriks12/Implementing-backpropogation-algorithm 
+
+Digit Classification using CNN - https://github.com/gowriks12/digit-classification-CNN
+
+## Digital Signal Processing related projects and contributions
+DSP - Projects : https://github.com/gowriks12/DSP-projects
 
 ## Other projects
 Software Defined Network for IoT - https://github.com/gowriks12/SDNinIoT
