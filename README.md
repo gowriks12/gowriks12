@@ -48,7 +48,7 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 
 
 ## Machine Learning Projects and contributions
-[Undergraduate Senior Design project - Interactive health Bot](A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot)
+[Interactive health Bot- A voice controlled disease predicting bot](https://github.com/gowriks12/Interactive-Health-Bot)
 
 [Amazon stock price prediction](https://github.com/gowriks12/Amazon-Stock-Prediction)
 
