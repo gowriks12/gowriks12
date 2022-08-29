@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Gowri, an Engineer skilled in Digital Signal Processing, Machine Learning, Computer Vision. Hands on experience with Python, MATLAB, C and Java. Pursuing Master of Science focused in Computer Engineering from Purdue University to strengthen and build new skills.
+I am Gowri, an Engineer skilled in Machine Learning, Computer Vision and Digital Signal Processing. Pursuing Master of Science focused in Computer Engineering from Purdue University. I have experience working as a Machine learning Engineer at William Blair. Profecient in Python, MATLAB, C and Java programming languages. I have hands-on experience with several python libraries such as: pandas, pySpark, opencv, numpy, scikit-learn, matplotlib, librosa, NLTK etc. I have used keras to define custom neural network architecture and Tensorflow for advanced computer vision projects.
 
-Here is a brief summary of my github profile. Feel free to explore any of my repositories.
+E-mail - gowrias12@gmail.com
 
-E-mail - gowriks12@gmail.com
-
-LinkedIn - https://www.linkedin.com/in/gowri-kurthkoti-sridhara-rao-0591a8178/
+LinkedIn - https://www.linkedin.com/in/gowriks/
 
 - 🔭 I’m currently working on ...
-- Advanced Computer Vision Using TensorFlow (Coursera Course)
 - Student Attention classification using Computer Vision (MS Thesis)
+  * The idea is to classify the posture of each student present in the classroom as attentive, in-attentive or intermediate and use this data to provide Professors a     feedback regarding their class engagement effectiveness. This solution involves Object Recognition using RetinaNet where each student in the class at each frame is     identified. The identified student's pose is classified with the help of a python library mediapipe and machine learning techniques. The classification is recorded     for the entire lecture duration at regular intervals and a statistical report which is the feedback is generated.  
+
+Here is a brief summary of my github profile. Feel free to explore any of my repositories.
 
 ## Computer Vision Projects and contributions
 Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
