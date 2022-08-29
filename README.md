@@ -28,46 +28,46 @@ LinkedIn - https://www.linkedin.com/in/gowriks/
 Here is a brief summary of my github profile. Feel free to explore any of my repositories.
 
 ## Computer Vision Projects and contributions
-Single person pose estimation using Mediapipe and SVM - https://github.com/gowriks12/pose-estimation
+[Single person pose estimation using Mediapipe and SVM](https://github.com/gowriks12/pose-estimation)
 
-Advanced Computer Vision using TensorFlow - https://github.com/gowriks12/Advanced-Computer-Vision-TF
+[Advanced Computer Vision using TensorFlow](https://github.com/gowriks12/Advanced-Computer-Vision-TF)
 
-Road Lane Detection - https://github.com/gowriks12/lane-detection
+[Road Lane Detection](https://github.com/gowriks12/lane-detection)
 
-Hand tracking and gesture detection - https://github.com/gowriks12/Hand-Tracking-Gesture-Detection
+[Hand tracking and gesture detection](https://github.com/gowriks12/Hand-Tracking-Gesture-Detection)
 
-Edge detection - https://github.com/gowriks12/Edge-Detection
+[Edge detection](https://github.com/gowriks12/Edge-Detection)
 
-Template Matching - https://github.com/gowriks12/Template-Matching
+[Template Matching](https://github.com/gowriks12/Template-Matching)
 
-Region based segmentation - https://github.com/gowriks12/Region-based-segmentation
+[Region based segmentation](https://github.com/gowriks12/Region-based-segmentation)
 
-Disparity Map (Stereo Vision) - https://github.com/gowriks12/Disparity-Map 
+[Disparity Map (Stereo Vision)](https://github.com/gowriks12/Disparity-Map)
 
-Other Image processing projects included in - https://github.com/gowriks12/CV-Projects
+[Other Image processing projects](https://github.com/gowriks12/CV-Projects)
 
 
 ## Machine Learning Projects and contributions
-Undergraduate Senior Design project - Interactive health Bot - A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot
+[Undergraduate Senior Design project - Interactive health Bot](A voice controlled disease predicting bot - https://github.com/gowriks12/Interactive-Health-Bot)
 
-Amazon stock price prediction - https://github.com/gowriks12/Amazon-Stock-Prediction
+[Amazon stock price prediction](https://github.com/gowriks12/Amazon-Stock-Prediction)
 
-Birdcall Identification - https://github.com/gowriks12/birdcall-identification 
+[Birdcall Identification](https://github.com/gowriks12/birdcall-identification)
 
-Car logo classification - https://github.com/gowriks12/logo-recognition
+[Car logo classification](https://github.com/gowriks12/logo-recognition)
 
-Data analysis using Machine learning - https://github.com/gowriks12/Voting_data_analysis , https://github.com/gowriks12/auto_data_analysis
+Data analysis using Machine learning: [Voting Data Analysis](https://github.com/gowriks12/Voting_data_analysis) , [Auto Data Analysis](https://github.com/gowriks12/auto_data_analysis)
 
-Text classification using KNN - https://github.com/gowriks12/text_classification-KNN
+[Text classification using KNN](https://github.com/gowriks12/text_classification-KNN)
 
-Neural Networks implementation - https://github.com/gowriks12/Implementing-backpropogation-algorithm 
+[Neural Networks implementation](https://github.com/gowriks12/Implementing-backpropogation-algorithm)
 
-Digit Classification using CNN - https://github.com/gowriks12/digit-classification-CNN
+[Digit Classification using CNN](https://github.com/gowriks12/digit-classification-CNN)
 
 ## Digital Signal Processing related projects and contributions
-DSP - Projects : https://github.com/gowriks12/DSP-projects
+[DSP - Projects](https://github.com/gowriks12/DSP-projects)
 
 ## Other projects
-Software Defined Network for IoT - https://github.com/gowriks12/SDNinIoT
+[Software Defined Network for IoT](https://github.com/gowriks12/SDNinIoT)
 
-Web application Project - https://github.com/gowriks12/Software-Engineering-Project
+[Web application Project](https://github.com/gowriks12/Software-Engineering-Project)
