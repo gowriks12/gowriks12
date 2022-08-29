@@ -27,7 +27,7 @@ LinkedIn - https://www.linkedin.com/in/gowriks/
 
 Here is a brief summary of my github profile. Feel free to explore any of my repositories.
 
-## Computer Vision Projects and contributions
+## Computer Vision Projects
 [Single person pose estimation using Mediapipe and SVM](https://github.com/gowriks12/pose-estimation)
 
 [Advanced Computer Vision using TensorFlow](https://github.com/gowriks12/Advanced-Computer-Vision-TF)
@@ -47,7 +47,7 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 [Other Image processing projects](https://github.com/gowriks12/CV-Projects)
 
 
-## Machine Learning Projects and contributions
+## Machine Learning Projects
 [Interactive health Bot- A voice controlled disease predicting bot](https://github.com/gowriks12/Interactive-Health-Bot)
 
 [Amazon stock price prediction](https://github.com/gowriks12/Amazon-Stock-Prediction)
@@ -64,7 +64,7 @@ Data analysis using Machine learning: [Voting Data Analysis](https://github.com/
 
 [Digit Classification using CNN](https://github.com/gowriks12/digit-classification-CNN)
 
-## Digital Signal Processing related projects and contributions
+## Digital Signal Processing Projects
 [DSP - Projects](https://github.com/gowriks12/DSP-projects)
 
 ## Other projects
