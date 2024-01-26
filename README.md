@@ -17,13 +17,22 @@ Here are some ideas to get you started:
 -  
 -->
 
-I am Gowri, an Engineer skilled in Machine Learning, Computer Vision and Digital Signal Processing. Pursuing Master of Science focused in Computer Engineering from Purdue University. I have experience working as a Machine learning Engineer at William Blair. Profecient in Python, MATLAB, C and Java programming languages. I have hands-on experience with several python libraries such as: pandas, pySpark, opencv, numpy, scikit-learn, matplotlib, librosa, NLTK etc. I have used keras to define custom neural network architecture and Tensorflow for advanced computer vision projects.
+I am Gowri, a Machine Learning Engineer currently working at Acnovate. I work on research and development of cutting edge technologies that can be integrated with the company needs. I have a Masters in Computer Engineering from Purdue University. I have experience working as a Machine learning Engineer at William Blair which is a financial services company as well. My experience majorly lies in the field of Machine Learning, Computer vision, Natural Language Processing and Generative AI application and models.
+
+Reach out to me to collaborate or discuss any opportunities at:
 
 E-mail - gowrias12@gmail.com
 
 LinkedIn - https://www.linkedin.com/in/gowriks/
 
 Here is a brief summary of my github profile. Feel free to explore any of my repositories.
+
+## Generative AI Projects
+[Question Answering using PDF Chatbot](https://github.com/gowriks12/Qna-Chatbot)
+
+[Ice Breaker App](https://github.com/gowriks12/IceBreakerApp)
+
+[Customer Service Chatbot](https://github.com/gowriks12/chatbot-customer-service)
 
 ## Computer Vision Projects
 [Student Attention classification using Computer Vision (MS Thesis)](https://github.com/gowriks12/student-attentiveness-classification)
